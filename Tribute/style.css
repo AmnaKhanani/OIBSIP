@@ -1,0 +1,48 @@
+
+body {
+    background-color: #b9d6cb;
+    margin: 10%;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px whitesmoke;
+    font-size: 7vh;
+    font-weight: bold;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+    box-shadow: pink;
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+div#tribute-data {
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #8ab78a;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+
+
+h1.title {
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+footer {
+    text-decoration: none;
+    color: black;
+    margin-left: 25%;
+    margin-top: 2%;
+}
